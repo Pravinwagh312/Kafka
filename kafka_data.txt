@@ -1,0 +1,2 @@
+#Below link is useful for creating kafka consumer in quarkus
+https://www.google.com/search?client=firefox-b-e&q=quarkuj+kafka+consumer+script#fpstate=ive&vld=cid:a7492c1f,vid:5nIOMbV1GB4
